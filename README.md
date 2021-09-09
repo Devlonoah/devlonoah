@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Devlonoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/devlonoah/github-readme-stats)
+[![Devlonoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlonoah)](https://github.com/devlonoah/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
