@@ -7,15 +7,12 @@
 </a>
 
 <br/>
-Hi, i'm [Lawal Opeyemi], a self-taught Mobile developer and a freelance software engineer from Nigeria.
-Elegant interfaces, architecture, and code quality my watchcoed.
+Hi, i'm Lawal Opeyemi, a self-taught Mobile developer and a freelance software engineer from Nigeria.
+Elegant interfaces, architecture, and code quality my watchword.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7WTQcjUp6JnP7s52/giphy.gif" width="100" height="100" />
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:devlonoah@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 <!--
