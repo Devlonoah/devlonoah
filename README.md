@@ -34,17 +34,17 @@ Here are some ideas to get you started:
  -->
 <!-- ## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
  -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlonoah&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlonoah&show_icons=true&border_color=16700d&&count_private=true&include_all_commits=true&theme=dark" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlonoah&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlonoah&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=plant_app_UI&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=huawei_contest&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=Foodor&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=Timer_App&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=vrik_chatapp&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=DropIt&theme=dark&border_color=122610)](https://github.com/devlonoah/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=plant_app_UI&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=huawei_contest&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=Foodor&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=Timer_App&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=vrik_chatapp&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=DropIt&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
 
 
 
