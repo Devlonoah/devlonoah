@@ -39,4 +39,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlonoah&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=plant_app_UI&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=huawei_contest &theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
+
+
+
 
