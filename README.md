@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=huawei_contest&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=Foodor&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=Timer_App&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=vrik_chatapp&theme=dark&hide_border=true)](https://github.com/devlonoah/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=DropIt&theme=dark&border_color=122610)](https://github.com/devlonoah/github-readme-stats)
 
 
 
