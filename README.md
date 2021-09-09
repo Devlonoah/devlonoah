@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=Timer_App&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=vrik_chatapp&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=DropIt&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=Weather-App&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
+
 
 
 
