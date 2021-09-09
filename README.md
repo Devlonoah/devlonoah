@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Devlonoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/devlonoah/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
