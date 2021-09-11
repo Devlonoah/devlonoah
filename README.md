@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=plant_app_UI&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=huawei_contest&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=Foodor&theme=dark&border_color=16700d)](https://https://github.com/Devlonoah/Foodor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=Foodor&theme=dark&border_color=16700d)](https://github.com/Devlonoah/Foodor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=Timer_App&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=vrik_chatapp&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devlonoah&repo=DropIt&theme=dark&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
