@@ -12,7 +12,7 @@ Elegant interfaces, architecture, and code quality my watchword.
 - 💬 ask me about anything, i am happy to help;
 <img align="left" alt="Opeyemi Noah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a><a href="https://www.linkedin.com/in/onoah/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<!--   <img align="left" alt="Opeyemis's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
 </a>
 <br>
 <br>
