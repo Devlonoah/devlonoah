@@ -5,7 +5,7 @@ Elegant interfaces, architecture, and code quality my watchword.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7WTQcjUp6JnP7s52/giphy.gif" width="100" height="100" />
 
-- 💼 any freelance work? do reach, [email](mailto:devlonoah@gmail.com) :)<a href="https://twitter.com/devlonoah">
+- 💼 [Email](mailto:devlonoah@gmail.com) :)<a href="https://twitter.com/devlonoah">
   
 
 
