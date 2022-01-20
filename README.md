@@ -1,13 +1,19 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Welcome to my repo.
 
-Hi, i'm Opeyemi Lawal,
+Hi, i'm Opeyemi Lawal Noah,
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7WTQcjUp6JnP7s52/giphy.gif" width="100" height="100" />
 
-- 💼 [Email](mailto:devlonoah@gmail.com) :)<a href="https://twitter.com/devlonoah">
+- 💼 [Email](mailto:devlonoah@gmail.com)
   
 
-
+- 🔭 I’m currently working on Recipe App
+- 🌱 I’m currently learning Flutter
+- 🤔 I’m looking for help with Data Structure and Algorithm
+- 📫 How to reach me: ... 💼 [Email](mailto:devlonoah@gmail.com)
+- ⚡ Fun fact: The wood frog 🐸 can hold its pee for up to eight months 
+  
 <!-- - 💬 ask me about anything, i am happy to help;
 <img align="left" alt="Opeyemi Noah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a><a href="https://www.linkedin.com/in/onoah/"> -->
@@ -20,12 +26,12 @@ Hi, i'm Opeyemi Lawal,
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Recipe App
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Data Structure and Algorithm
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... 💼 [Email](mailto:devlonoah@gmail.com) :)<a href="https://twitter.com/devlonoah">
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
