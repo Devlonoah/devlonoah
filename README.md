@@ -9,7 +9,7 @@ Hi, i'm Opeyemi Lawal Noah,
   
 
 - 🔭 I’m currently working on Recipe App
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently using Flutter
 - 🤔 I’m looking for help with Data Structure and Algorithm
 - 📫 How to reach me: ... 💼 [Email](mailto:devlonoah@gmail.com)
 - ⚡ Fun fact: The wood frog 🐸 can hold its pee for up to eight months 
