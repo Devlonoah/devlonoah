@@ -1,16 +1,16 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Welcome to my repo.
 
-Hi, i'm Opeyemi Lawal Noah,
+Hi, i'm Opeyemi Noah Lawal,
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7WTQcjUp6JnP7s52/giphy.gif" width="100" height="100" />
 
 - 💼 [Email](mailto:devlonoah@gmail.com)
   
 
-- 🔭 I’m currently working on Recipe App
+- 🔭 I’m currently working on Recipe App [Recipeal]
 - 🌱 I’m currently using Flutter
-- 🤔 I’m looking for help with Data Structure and Algorithm
+- 🤔 I’m looking for new opportunities
 - 📫 How to reach me: ... 💼 [Email](mailto:devlonoah@gmail.com)
 - ⚡ Fun fact: The wood frog 🐸 can hold its pee for up to eight months 
   
