@@ -7,14 +7,10 @@ Hi, i'm Opeyemi Noah Lawal,
 
 - 💼 [Email](mailto:devlonoah@gmail.com)
   
-
-- 🔭 I’m currently working on Recipe App [Recipeal]
-- 🌱 I’m currently using Flutter
+- 🌱 I’m currently using Flutter to build cross-platform apps
 - 🤔 I’m looking for new opportunities
 - 📫 How to reach me: ... 💼 [Email](mailto:devlonoah@gmail.com)
-- ⚡ Fun fact: The wood frog 🐸 can hold its pee for up to eight months 
-  
-<!-- - 💬 ask me about anything, i am happy to help;
+<!-- - 💬 ask me about anything, i will be happy to help;
 <img align="left" alt="Opeyemi Noah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a><a href="https://www.linkedin.com/in/onoah/"> -->
 <!--   <img align="left" alt="Opeyemis's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
