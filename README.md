@@ -4,7 +4,7 @@ Hi, i'm Opeyemi Noah Lawal
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3o7WTQcjUp6JnP7s52/giphy.gif" width="100" height="100" />
   
 - 🌱 I use Flutter to build cross-platform apps
-- 📫 How to reach me 💼 [Email](mailto:devlonoah@gmail.com)
+- 🛸I am currently learning swift.
 
 <!-- - 💬 ask me about anything, i will be happy to help;<br>
 <img align="left" alt="Opeyemi Noah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -17,10 +17,6 @@ Hi, i'm Opeyemi Noah Lawal
 <br>
 <!--
 **Devlonoah/devlonoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 📫 How to reach me: ... 💼 [Email](mailto:devlonoah@gmail.com) :)<a href="https://twitter.com/devlonoah">
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
