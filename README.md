@@ -1,5 +1,5 @@
 
-***Hi there, I'm Lawal Opeyemi Noah 👋***
+***Hi there, I'm Opeyemi Lawal 👋***
 
 I'm a software developer with a passion for using technology to solve real-world problems.
 I love contributing to open source projects and working on personal projects in my free time. 
