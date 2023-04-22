@@ -21,12 +21,6 @@ Hi, i'm Opeyemi Noah Lawal
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Devlonoah's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlonoah)](https://github.com/devlonoah/github-readme-stats)
- -->
-<!-- ## Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
- -->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlonoah&show_icons=true&border_color=16700d&&count_private=true&include_all_commits=true&theme=dark" />
- -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlonoah&theme=light&border_color=16700d)](https://github.com/devlonoah/github-readme-stats)
 
 <!-- 
