@@ -12,5 +12,5 @@ Skills
 You can connect with me through:
 
 [![Email](https://example.com/email-logo.png)](mailto:devlonoah@gmail.com)
-[![LinkedIn](https://example.com/linkedin-logo.png)](https://www.linkedin.com/in/onoah)
+[![LinkedIn](https://[example.com/linkedin-logo.png](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg))](https://www.linkedin.com/in/onoah)
 [![Twitter](https://example.com/twitter-logo.png)](https://www.twitter.com/devlonoah)
