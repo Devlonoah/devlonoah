@@ -1,6 +1,2 @@
-# 👋 Hi there!
-
-I'm Opeyemi Lawal,
-Passionate Mobile App Developer , Crafting Innovative Solutions for Android and iOS.
-
-
+I’m Opeyemi Lawal,
+A passionate Mobile App Developer dedicated to crafting innovative solutions for Android and iOS platforms. 🚀
